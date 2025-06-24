@@ -2,8 +2,9 @@
 <h3 align="center">Embedded Systems & Software Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FFFD0&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+C%2FC%2B%2B+Developer;Automation+%7C+System+Programming+%7C+Linux+Internals;Innovation+Backed+By+Quiet+Tenacity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0FFFD0&center=true&vCenter=true&width=1000&lines=C%2FC%2B%2B+%7C+Bash+%7C+Data+Structures%2C+System+Programming+%7C+Linux+Internals%2C+Networking+%26+Protocols+%7C+Operating+Systems%2C+Micro-controllers+%7C+Micro-processors%2C+Sensors+%26+Actuators+%7C+Automotive+Enthusiastic+%7C+PCB+Design" alt="Typing SVG" />
 </p>
+
 
 ---
 
