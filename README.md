@@ -76,7 +76,7 @@ U-Boot, SD Card Deployment, EEPROM Logging
 ###  GitHub Stats
 
 <p align="center">
-![GitHub repo count](https://badgen.net/github/repos/PrabhuEmbeddedWorks)
+  <img src="https://img.shields.io/github/repo-count/PrabhuEmbeddedWorks?style=flat&color=blue" alt="Public Repositories"/>
 </p>
 
 ---
