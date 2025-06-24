@@ -92,11 +92,4 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ---
 
-### 🌐 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabhu26ec@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrabhuEmbeddedWorks)
-
----
-
 🔧 *Quiet Tenacity. Wired for Innovation. Focused on the Future.*
