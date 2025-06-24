@@ -19,7 +19,7 @@
 
 ---
 
-### 💼 Work Experience
+###  Work Experience
 
 **🔹 Technical Training – Emertxe, Bengaluru**  
 *Advanced Embedded Systems | Oct 2024 – Mar 2025*  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧠 Skills & Technologies
+###  Skills & Technologies
 
 **Programming:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -53,7 +53,7 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ---
 
-### 🚀 Highlight Projects
+###  Highlight Projects
 
 - 🔐 **Secure Online Voting System (C++)**  
   C++ | OOP | Socket Programming | SQLite | OpenSSL SHA-256  
@@ -73,23 +73,19 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhuEmbeddedWorks&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhuEmbeddedWorks&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhuEmbeddedWorks&layout=compact&theme=radical" alt="Top Languages"/>
+![GitHub repo count](https://badgen.net/github/repos/PrabhuEmbeddedWorks)
 </p>
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
 - ADAS, MATLAB/SIMULINK – *Udemy (2024)*  
 - Industrial Automation & Robotics – *VVTech (2022)*
 
 ---
 
-🔧 *Quiet Tenacity. Wired for Innovation. Focused on the Future.*
+ *Quiet Tenacity. Wired for Innovation. Focused on the Future.*
