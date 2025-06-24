@@ -12,10 +12,10 @@
 
 ### About Me
 
-🎓 ECE Undergrad at **SJCE, Mysuru** | Diploma from **JSS Polytechnic Nanjangud**  
-💡 Passionate about **solving real-world problems** through automation, system programming, and embedded logic.  
-🔍 Exploring Embedded Linux, Device Drivers, and Secure System Design.    
-🧰 Strong foundation in **C/C++**, **Linux internals**, **Embedded Protocols**, and **Bash scripting**.
+ ECE Undergrad at **SJCE, Mysuru** | Diploma from **JSS Polytechnic Nanjangud**  
+ Passionate about **solving real-world problems** through automation, system programming, and embedded logic.  
+ Exploring Embedded Linux, Device Drivers, and Secure System Design.    
+ Strong foundation in **C/C++**, **Linux internals**, **Embedded Protocols**, and **Bash scripting**.
 
 ---
 
@@ -55,19 +55,19 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ###  Highlight Projects
 
-- 🔐 **Secure Online Voting System (C++)**  
+-  **Secure Online Voting System (C++)**  
   C++ | OOP | Socket Programming | SQLite | OpenSSL SHA-256  
   _Client-server voting with secure login, database persistence, and hash-based password protection._
 
-- 📱 **Bluetooth-Based ABS**  
+-  **Bluetooth-Based ABS**  
   Arduino Uno + HC-05 | C++  
   _ABS brake logic automation using Bluetooth commands._
 
-- 🧠 **Car Black Box (CBB)**  
+-  **Car Black Box (CBB)**  
   PIC16F877A | EEPROM Logging  
   _Crash event logging with interrupts and EEPROM-based data storage._
 
-- 🐚 **Mini Shell for Linux**  
+-  **Mini Shell for Linux**  
   C | Bash | Signals | IPC  
   _Custom CLI with command parsing, pipes, signal handling, built-in command execution._
 
@@ -81,4 +81,4 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ---
 
- *Quiet Tenacity. Wired for Innovation. Focused on the Future.*
+ *Quiet Tenacity!!.*
