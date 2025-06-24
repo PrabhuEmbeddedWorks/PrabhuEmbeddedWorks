@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basavaprabhu</h1>
+<h1 align="center">Hey Hii 👋, I'm Basavaprabhu</h1>
 <h3 align="center">Embedded Systems & Software Enthusiast</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🔧 About Me
+### About Me
 
 🎓 ECE Undergrad at **SJCE, Mysuru** | Diploma from **JSS Polytechnic Nanjangud**  
 💡 Passionate about **solving real-world problems** through automation, system programming, and embedded logic.  
@@ -73,13 +73,6 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-count/PrabhuEmbeddedWorks?style=flat&color=blue" alt="Public Repositories"/>
-</p>
-
----
 
 ###  Certifications
 
