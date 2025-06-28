@@ -41,7 +41,6 @@
 **OS & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00274F?style=flat&logo=freertos&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 **Embedded & Protocols:**  
 8051, ATmega328p, PIC16F877A, BeagleBone Black  
