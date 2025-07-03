@@ -12,7 +12,7 @@
 
 ### About Me
 
- ECE Undergrad at **SJCE, Mysuru** | Diploma from **JSS Polytechnic Nanjangud**  
+ Ex-Intern at **BEL Bengaluru**, BE in ECE at **SJCE, Mysuru** | Diploma in ECE from **JSS Polytechnic Nanjangud**  
  Passionate about **solving real-world problems** through automation, system programming, and embedded logic.  
  Exploring Embedded Linux, Device Drivers, and Secure System Design.    
  Strong foundation in **C/C++**, **Linux internals**, **Embedded Protocols**, and **Bash scripting**.
