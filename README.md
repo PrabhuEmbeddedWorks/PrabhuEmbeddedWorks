@@ -1,5 +1,5 @@
 <h1 align="center">Hey Hii 👋, I'm Basavaprabhu</h1>
-<h3 align="center">Embedded Systems & Software Enthusiast</h3>
+<h3 align="center">Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0FFFD0&center=true&vCenter=true&width=1000&lines=C%2FC%2B%2B+%7C+Bash+%7C+Data+Structures;System+Programming+%7C+Linux+Internals;Networking+%26+Protocols+%7C+Operating+Systems;Micro-controllers+%7C+Micro-processors;Sensors+%26+Actuators+%7C+Automotive+Enthusiastic+%7C+PCB+Design" alt="Typing SVG" />
