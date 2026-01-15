@@ -52,27 +52,6 @@ U-Boot, SD Card Deployment, EEPROM Logging
 
 ---
 
-###  Highlight Projects
-
--  **Secure Online Voting System (C++)**  
-  C++ | OOP | Socket Programming | SQLite | OpenSSL SHA-256  
-  _Client-server voting with secure login, database persistence, and hash-based password protection._
-
--  **Bluetooth-Based ABS**  
-  Arduino Uno + HC-05 | C++  
-  _ABS brake logic automation using Bluetooth commands._
-
--  **Car Black Box (CBB)**  
-  PIC16F877A | EEPROM Logging  
-  _Crash event logging with interrupts and EEPROM-based data storage._
-
--  **Mini Shell for Linux**  
-  C | Bash | Signals | IPC  
-  _Custom CLI with command parsing, pipes, signal handling, built-in command execution._
-
----
-
-
 ###  Certifications
 
 - ADAS, MATLAB/SIMULINK – *Udemy (2024)*  
