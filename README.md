@@ -58,7 +58,7 @@
 ---
 ## Skills & Technologies
 
-### 🔧 Programming & Firmware
+### Programming & Firmware
 - **C**, **C++ (OOP)**, **Embedded C**
 - **Bash Scripting**
 - RTOS Concepts: Scheduling, Critical Sections, Mutex, Semaphores
