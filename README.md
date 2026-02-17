@@ -1,4 +1,4 @@
-<h1 align="center">Hey Hii 👋, I'm Basavaprabhu</h1>
+<h1 align="center">Heyy Hi 👋, I'm Prabhu</h1>
 <h3 align="center">Electronics-Coding-Embedded Systems Enthusiast</h3>
 
 <p align="center">
@@ -12,51 +12,77 @@
 
 ### About Me
 
- Ex-Intern at **BEL Bengaluru**, BE in ECE at **SJCE, Mysuru** | Diploma in ECE from **JSS Polytechnic Nanjangud**  
- Passionate about **solving real-world problems** through automation, system programming, and embedded logic.  
+  I am an **aspiring Embedded Firmware Engineer** with strong hands-on experience in **Embedded C**, **Linux system programming**, and **microcontroller-based firmware  development**.  
+ I enjoy working close to hardware — understanding datasheets, debugging boards, and building reliable low-level software.
+ Ex-Intern at **Bharat Electronics Limited (BEL) Bengaluru**, BE in ECE at **SJCE, Mysuru** | Diploma in ECE from **JSS Polytechnic Nanjangud, Mysuru**
  Exploring Embedded Linux, Device Drivers, and Secure System Design.    
- Strong foundation in **C/C++**, **Linux internals**, **Embedded Protocols**, and **Bash scripting**.
 
 ---
 
-###  Work Experience
-
-**🔹 Technical Training – Emertxe, Bengaluru**  
-*Advanced Embedded Systems | Oct 2024 – Mar 2025*  
-
-**🔹 Internship – Bharat Electronics Ltd (BEL)**  
-*TAPP Trainee | Feb 2023 – Aug 2023*  
-- Soldered and debugged over 10,000+ precision PCBs  
-- Resolved signal integrity issues, improved board validation by 30%
+## Core Interests
+- Embedded Firmware Development  
+- Linux Internals & System Programming  
+- Board Bring-up & Peripheral Debugging  
+- Real-time Systems & Embedded Protocols  
 
 ---
 
-###  Skills & Technologies
+## Work Experience
 
-**Programming:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+### Technical Training – Emertxe Information Technologies, Bengaluru  
+**Advanced Embedded Systems | Oct 2024 – Mar 2025**
 
-**OS & Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00274F?style=flat&logo=freertos&logoColor=white)
-
-**Embedded & Protocols:**  
-8051, ATmega328p, PIC16F877A, BeagleBone Black  
-UART, SPI, I2C, CAN | Embedded C, Arduino C++
-
-**System Programming:**  
-Linux Kernel System Calls, File Ops, IPC, Sockets, Signals  
-U-Boot, SD Card Deployment, EEPROM Logging
+- Hands-on firmware development using **PIC16F877A**
+- Strong exposure to **Linux Internals**:
+  - System calls, file operations, IPC, signals, sockets
+- Studied **Embedded Linux on ARM (BeagleBone Black)**:
+  - Boot flow, U-Boot, root filesystem, SD card deployment
+- Built a strong foundation in **RTOS concepts**:
+  - Processes, threads, synchronization, mutexes, semaphores
 
 ---
 
+### Internship – Bharat Electronics Limited (BEL), Bengaluru  
+**TAPP Trainee – Export Manufacturing (EVM Division) | Feb 2023 – Aug 2023**
+
+- Assembled and debugged **10,000+ production-grade PCBs**
+- Performed **precision soldering, IC rework, and board testing**
+- Identified and resolved **signal integrity and hardware faults**
+- Improved board validation efficiency and production reliability
+
+---
+## 🛠️ Skills & Technologies
+
+### 🔧 Programming & Firmware
+- **C**, **C++ (OOP)**, **Embedded C**
+- **Bash Scripting**
+- RTOS Concepts: Scheduling, Critical Sections, Mutex, Semaphores
+
+### 🐧 Embedded Linux & System Programming
+- Linux System Calls, File I/O, IPC, Signals, Sockets
+- BeagleBone Black (ARM 32-bit)
+- Buildroot, U-Boot, Root File System
+- Image deployment via SD card
+
+### 🔌 Embedded Systems & Protocols
+- **Microcontrollers:** 8051, ATmega328P, PIC16F877A  
+- **Peripherals:** GPIO, ADC, PWM, Timers, Interrupts, EEPROM  
+- **Protocols:** UART, SPI, I2C, CAN  
+
+### 🧪 Testing & Debugging
+- Board-level debugging & fault isolation
+- Oscilloscope & logic analyzer usage
+- Component-level diagnostics and rework
+
+---
 ###  Certifications
 
 - ADAS, MATLAB/SIMULINK – *Udemy (2024)*  
 - Industrial Automation & Robotics – *VVTech (2022)*
 
 ---
-
+## 📫 Connect With Me
+- 📧 Email: **prabhu26ec@gmail.com**
+- 🌍 Location: Mysuru, Karnataka, India
+---
  *Quiet Tenacity!!.*
