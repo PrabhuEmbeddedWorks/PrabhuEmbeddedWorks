@@ -1,20 +1,7 @@
 <h1 align="center">Heyy Hi 👋, I'm Prabhu</h1>
 <h3 align="center">Electronics-Coding-Embedded Systems Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=0FFFD0&center=true&vCenter=true&width=1200&lines=
-C+%7C+C%2B%2B+%7C+Embedded+C+%7C+Bash;
-Linux+Internals+%7C+System+Programming+%7C+IPC+%7C+Signals+%7C+Sockets;
-RTOS+Concepts+%7C+Scheduling+%7C+Mutex+%7C+Semaphores+%7C+Critical+Sections;
-Embedded+Linux+%7C+U-Boot+%7C+Buildroot+%7C+Root+File+System;
-Microcontrollers+%7C+8051+%7C+ATmega328P+%7C+PIC16F877A;
-UART+%7C+SPI+%7C+I2C+%7C+CAN+%7C+Device+Communication;
-GPIO+%7C+ADC+%7C+PWM+%7C+Timers+%7C+Interrupts+%7C+EEPROM;
-Board+Bring-Up+%7C+Debugging+%7C+Oscilloscope+%7C+Logic+Analyzer;
-Automotive+Electronics+%7C+ABS+%7C+ADAS+%7C+Car+Black+Box;
-PCB+Design+%7C+Sensors+%7C+Actuators+%7C+Hardware+Debugging
-" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0FFFD0&center=true&vCenter=true&width=1000&lines=C%2FC%2B%2B+%7C+Bash+%7C+Data+Structures;System+Programming+%7C+Linux+Internals;Networking+%26+Protocols+%7C+Operating+Systems;Micro-controllers+%7C+Micro-processors;Sensors+%26+Actuators+%7C+Automotive+Enthusiastic+%7C+PCB+Design" alt="Typing SVG" /> </p>
 
 
 
