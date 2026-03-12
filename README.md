@@ -17,14 +17,15 @@
 
 ### About Me
 
-- **Aspiring Embedded Firmware Engineer** with strong hands-on experience in **Embedded C**, **Linux system programming**, and **microcontroller-based firmware  development**.
+- **Aspiring Firmware & Embedded Systems Engineer** with strong hands-on experience in **Embedded C**, **Linux system programming**, and **microcontroller-based firmware  development**.
 - I enjoy working close to hardware — understanding datasheets, debugging boards, and building reliable low-level software.
 - Ex-Intern at **Bharat Electronics Limited (BEL) Bengaluru**, BE in ECE at **SJCE, Mysuru** | Diploma in ECE from **JSS Polytechnic Nanjangud, Mysuru.** 
 
 ---
 
 ## Core Interests
-- Embedded Firmware Development  
+- Embedded Firmware Development
+- Board Support Package (BSP)  
 - Linux Internals & System Programming  
 - Board Bring-up & Peripheral Debugging  
 - Real-time Systems & Embedded Protocols  
