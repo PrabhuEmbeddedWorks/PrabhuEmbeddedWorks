@@ -1,5 +1,5 @@
 <h1 align="center">Heyy Hi 👋, I'm Prabhu</h1>
-<h3 align="center">Electronics-Coding-Embedded Systems Enthusiast</h3>
+<h3 align="center">Electronics-Firmware-Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img 
