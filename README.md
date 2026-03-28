@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Prabhu</h1>
-<h3 align="center">Embedded Systems | Firmware Development | Linux System Programming</h3>
+<h1 align="center">Hi 👋, I'm Prabhu</h1>
+<h3 align="center">Firmware & Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img 
