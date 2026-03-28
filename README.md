@@ -81,26 +81,6 @@ TAPP Trainee – Export Manufacturing (EVM Division) | Feb 2023 – Aug 2023
 
 ---
 
-## Projects
-
-### Anti-lock Braking System with Simulink Modeling  
-- Implemented using Arduino Uno (ATmega328P) and HC-05  
-- Demonstrated embedded control and motor driver integration  
-
-### Car Black Box (CBB)  
-- Developed using PIC16F877A and Embedded C  
-- Logged crash events to EEPROM using interrupts  
-
-### Mini Shell (Linux Internals Project)  
-- Implemented using C and Linux system calls  
-- Supports process handling, pipes, and signal-based execution  
-
-### PLC-Based Water Level Controller  
-- Designed using Mitsubishi GX Works 3 and HMI tools  
-- Demonstrated industrial automation control logic  
-
----
-
 ## Certifications
 
 - Advanced BSP Development with Embedded C – Coursera (March 2026)
